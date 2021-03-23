@@ -1,0 +1,1 @@
+In this folder, we have examples of SystemVerilog RTL designs and testbenches using Object Oriented Programming in SystemVerilog. Each testbench contains: a generator, a driver, a monitor, a scoreboard, the DUT, the DUT interface, the environment, and a test class. The following image illustrate the overall architecture containing the components in our testing set up:
